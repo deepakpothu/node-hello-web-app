@@ -6,7 +6,8 @@ Great for testing simple deployments to the cloud
 `npm start`
 
 FOR DOCKER 
-Added dockerfile so use docker build command and docker run command to deploy it in container
+
+Added dockerfile in the code so we use docker build command and docker run command to deploy it in container
 
 docker build -t hello_node:1 .
 
